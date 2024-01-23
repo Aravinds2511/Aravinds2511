@@ -2,7 +2,7 @@
 - Primarily Blockchain Developer.
 - I'm currently learning Solidity, Defi, smart contract Optimization and security in depth.  
 - I know the basics of web2 development and have done few projects in it.
-- How to reach me : --**[Linkedin](http://www.linkedin.com/in/aravind-srinivasan-088367291) -- [Mail](mailto:aravindvasang@gmail.com) -- [Resume](https://drive.google.com/file/d/1FvMENSXual_9B4oO4k4UOUAVJFoD-DP4/view?usp=sharing) --[Personal Website](https://portfolio-five-jade-58.vercel.app/).** 
+- How to reach me : --**[Linkedin](http://www.linkedin.com/in/aravind-srinivasan-088367291) -- [Mail](mailto:aravindvasang@gmail.com) -- [Resume](https://drive.google.com/file/d/17a75OzquXvhez9EAaJxrxMiRafRcwZkR/view?usp=sharing) --[Personal Website](https://portfolio-five-jade-58.vercel.app/).** 
 
 **Languages:**  **Solidity, JavaScript, Python**, Node js , Next js, React js.
 <br>
