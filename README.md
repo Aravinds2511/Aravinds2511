@@ -9,7 +9,7 @@
 **Tools/Frameworks:**  **Web3 js, Ether js**,**Truffle , Hardhat , Foundry , Ganache , Remix.**
 <br>
 <br>
-Here is my languages used stats on github
+Here is my languages used stats on github:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravinds2511)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravinds2511)](https://github.com/anuraghazra/github-readme-stats)
